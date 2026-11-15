@@ -61,8 +61,8 @@ Advanced chart types used: choropleth map, treemap, Sankey, animated bubble char
 
 ## Installation & Running Locally
 ```bash
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/ceren-kurt/cen445-gloabl-superstore-visualization.git
+cd cen445-gloabl-superstore-visualization
 python -m venv .venv
 .venv\Scripts\activate        # Windows (macOS/Linux: source .venv/bin/activate)
 pip install -r requirements.txt
